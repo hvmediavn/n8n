@@ -1,0 +1,3 @@
+- Scripts tự động cài đặt, update n8n qua Docker.
+- Chỉ 1 câu lệnh, nhanh chóng, tiết kiệm thời gian
+- Hỗ trợ cài đặt domain/sub-domain và tự cài đặt SSL cho domain/sub-domain

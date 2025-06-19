@@ -3,3 +3,4 @@
 - Hỗ trợ cài đặt domain/sub-domain và tự cài đặt SSL cho domain/sub-domain
 
 - Setup: curl -sSL https://raw.githubusercontent.com/hvmediavn/n8n/refs/heads/master/install.sh > install.sh && chmod +x install.sh && sudo ./install.sh
+- Update: curl -sSL https://raw.githubusercontent.com/hvmediavn/n8n/refs/heads/master/update.sh > update.sh && chmod +x update.sh && sudo ./update.sh
